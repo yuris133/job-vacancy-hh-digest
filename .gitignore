@@ -1,0 +1,13 @@
+# Секреты — никогда не коммитить
+tg-credentials.json
+telegram.env/
+*.env
+*tg token.env
+*token*.env
+
+# Личные данные
+CV.md
+
+# Служебное
+Thumbs.db
+.DS_Store
